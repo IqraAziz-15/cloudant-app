@@ -20,4 +20,4 @@ ENV BASE_URL = f"https://293e9a3b-b044-4b74-a92a-3b331de2350a-bluemix.cloudantno
 # EXPOSE 8080
 
 # Run the Python script
-CMD ["python", "cloudantapp.py"]
+CMD ["python3", "cloudantapp.py"]
