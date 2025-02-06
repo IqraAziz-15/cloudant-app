@@ -174,7 +174,7 @@ if __name__ == "__main__":
 
     # Example usage
     database_name = "test_db"
-    document = {"name": "John Doe", "age": 30, "city": "New York"}
+    document = {"name": "John Doee", "age": 31, "city": "New York1"}
 
     print("Creating database...")
     print(cloudant_client.create_database(database_name))
